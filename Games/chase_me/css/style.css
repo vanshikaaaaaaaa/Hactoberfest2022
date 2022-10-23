@@ -12,6 +12,7 @@ h1{
     display: grid;
     place-items: center;
     font-size: 3rem;
+  font-weight:4;
 }
 #container {
   display: flex;
